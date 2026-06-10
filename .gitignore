@@ -1,0 +1,36 @@
+# Binaries and temporary folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Code project files (Visual Studio, VS Code, Rider)
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.xsd
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+.vsconfig
+
+# Built-in plugins or marketplace items (optional, remove if you want to track them)
+Plugins/Developer/
+
+# Crash reports
+SourceReport-[0-9]*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other common ignores
+*.log
+*.tmp
+*BuiltData.uasset
